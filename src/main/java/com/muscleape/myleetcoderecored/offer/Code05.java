@@ -11,7 +11,7 @@ package com.muscleape.myleetcoderecored.offer;
 public class Code05 {
 
     public static void main(String[] args) {
-
+        System.out.println(handleMethod("add s c s"));;
     }
 
     public static String handleMethod(String param) {
